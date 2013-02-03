@@ -1,6 +1,5 @@
 //
 //  ClassMapping.m
-//  tv-online
 //
 //  Created by Gleb Pinigin on 2/3/13.
 //  Copyright (c) 2013 Gleb Pinigin. All rights reserved.
