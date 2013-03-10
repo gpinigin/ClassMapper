@@ -1,3 +1,5 @@
 .DS_Store
 
+# XCode stuff
 build
+xcuserdata
